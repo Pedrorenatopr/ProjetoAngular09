@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": "2",
+      "name": "Geladeira",
+      "price": 2
+    },
+    {
+      "id": "3",
+      "name": "Cama",
+      "price": 1
+    },
+    {
+      "id": "54c1",
+      "name": "Teste 07",
+      "price": 12400
+    },
+    {
+      "id": "f335"
+    },
+    {
+      "id": "b38a",
+      "name": "Teste 08",
+      "price": 12400
+    }
+  ]
+}
